@@ -1,0 +1,13 @@
+/*Taxi Fair Finder
+Km's Travelled                      Rate
+1-100                               12.90/per km
+100-200                             13.90/per km
+201-300                             14.90/per km
+301-400                             15.90/per km
+401-500                             16.90/per km
+501-600                             19.90/per km
+601-700                             22.90/per km
+701-800                             23.90/per km
+801-900                             24.90/per km
+901-1000                            30.90/per km
+1001-2000                           36.90/per km/*
